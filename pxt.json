@@ -1,5 +1,6 @@
 {
     "name": "Chapter 10 Mastermind Can You Break the Code",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
